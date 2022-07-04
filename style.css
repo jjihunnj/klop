@@ -49,10 +49,22 @@ nav {
     padding: 10px;
 }
 .foot {
-    color: blue;
-    font-size: 30px;
+    text-decoration: none;
+    border:3px solid darkblue;
+    color: darkblue;
+    padding: 7px;
 }
 .lol {
     border: 1px solid LightSkyBlue;
     border-radius: 10px;
+}
+h2 {
+    color: blue;
+    font-size: 30px;
+}
+.you {
+    text-decoration: none;
+    border:3px solid darkblue;
+    color: darkblue;
+    padding: 7px;
 }
